@@ -3,7 +3,6 @@
 # 👋 Welcome
 Hi, I'm Joonhyung Kwak.
 - 📚  I'm a BS student in the Department of Information and Communication Engineering at Inha University
-- 💼 I am working as an intern at the Data Intelligence Lab (DILab)
 - 📈 I’m currently researching about chatbots
 - 📧 If you have any questions my project, please contact me through email (kwakjoonhyung0429@gmail.com).
 
@@ -12,7 +11,7 @@ Welcome to my Github!
 ## 💡 Interests
 - Natural Language Processing
 - Deep Learning
-- Speech Recognition
+- Speech Emotion Classification
 - Question and Answering
 - Multi-modal
 
