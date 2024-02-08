@@ -2,18 +2,18 @@
 
 # 👋 Welcome
 Hi, I'm Joonhyung Kwak.
-- 📚  I'm a BS student in the Department of Information and Communication Engineering at Inha University
+- 📚  I'm an MS student in the Department of Artificial Intelligence at SKKU
 - 📈 I’m currently researching about chatbots
-- 📧 If you have any questions my project, please contact me through email (kwakjoonhyung0429@gmail.com).
+- 📧 If you have any questions about my project, please contact me through email (kwakjoonhyung0429@gmail.com).
 
-Welcome to my Github!
+Welcome to my GitHub!
 
 ## 💡 Interests
 - Natural Language Processing
 - Deep Learning
-- Speech Emotion Classification
-- Question and Answering
-- Multi-modal
+- Long-term Memory
+- Digital Healthcare
+
 
 ## 💻 Stack
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
